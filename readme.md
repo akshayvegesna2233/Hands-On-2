@@ -24,6 +24,7 @@ While selection sort correctly sorts arrays, its efficiency diminishes with larg
 
 c. System Specifications:
 
-System information: CPU: Windows 10.0.22621 Total RAM: 16805036032 bytes System: Intel64 Family 6 Model 140 Stepping 1, GenuineIntel
+System information: CPU: Windows 10.0.19045 Total RAM: 7 GB System: Intel64 Family 6 Model 78 Stepping 3, GenuineIntel
 
-Storage information: C:\ - Total: 368129863680 bytes, Free: 243057664000 bytes D:\ - Total: 318787022848 bytes, Free: 257257058304 bytes E:\ - Total: 335544315904 bytes, Free: 316200505344 bytes G:\ - Total: 16106127360 bytes, Free: 661610496 bytes
+Storage information: C:\ - Total: 465 GB, Free: 377 GB D:\ - Total: 453 GB, Free: 381 GB E:\ - Total: 312 GB, Free: 294 GB 
+
